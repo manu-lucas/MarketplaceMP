@@ -1,0 +1,15 @@
+POST https://api.mercadopago.com/oauth/token HTTP/1.1
+content-type: application/json
+
+{
+    "client_id": "7689245797766293",
+    "client_secret": "whE6KZhbuXr4fGWchsbz24PYfzgrKcIl",
+    "code": "TG-66420da53c488100011d45dc-1796796862",
+    "grant_type": "authorization_code",
+    "redirect_uri": "https://appify-black-side.vercel.app/mp/code",
+    "refresh_token": "TG-66420da53c488100011d45dc-1796796862",
+}
+
+
+
+
