@@ -1,4 +1,4 @@
- se usan túneles  de red, para desarrollo de producción 
+Opcional :  se usan túneles  de red, para desarrollo de producción 
 
 Probar el codigo 
 
@@ -12,3 +12,7 @@ Probar el codigo
 
  - Comprador :
    El comprador procesas sus datos . Se procesa el pago y se comparten las comisiones.   
+
+Comando para correr Front : npm run dev 
+Comando para correr Backend : npm start  
+
